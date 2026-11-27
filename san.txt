@@ -1,2 +1,6 @@
 sanju
+ HEAD
 sanju 2
+s
+edit 2
+5113670 (save changes to san.txt)
